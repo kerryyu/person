@@ -3,7 +3,6 @@ title: Home
 layout: home
 ---
 
-- I am a graduate student in the Department of Electrical Engineering & Computer Sciences at UC Berkeley. My primary research is on circuit quantum electrodynamics (c-QED) and the intersection of cQED and quantum acoustodynamics.
 ----
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
