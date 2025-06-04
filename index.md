@@ -3,11 +3,8 @@ title: Home
 layout: home
 ---
 
-I am a graduate student in the Department of Electrical Engineering & Computer Sciences at UC Berkeley. My primary research is on circuit quantum electrodynamics (c-QED) and the intersection of cQED and quantum acoustodynamics.
+- I am a graduate student in the Department of Electrical Engineering & Computer Sciences at UC Berkeley. My primary research is on circuit quantum electrodynamics (c-QED) and the intersection of cQED and quantum acoustodynamics.
 ----
-
-## Contact
-- **Email:** kangdiyu at berkeley dot edu  
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
