@@ -7,7 +7,7 @@ I am a graduate student in the Department of Electrical Engineering & Computer S
 ----
 
 ## Contact
-- **Email:** <kangdiyu at berkeley dot edu>  
+- **Email:** kangdiyu at berkeley dot edu  
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
