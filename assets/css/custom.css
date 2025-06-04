@@ -1,0 +1,10 @@
+/* assets/css/custom.css */
+/* Override heading color */
+h1, h2, h3 {
+  color: #003366; /* Berkeley blue */
+}
+
+/* Add a border to your homepage banner */
+.page-header {
+  border-bottom: 2px solid #FDB515; /* Cal gold */
+}
